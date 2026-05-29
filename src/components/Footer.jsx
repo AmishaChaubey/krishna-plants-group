@@ -36,9 +36,9 @@ const Footer = () => (
               <h4 className="text-base sm:text-lg font-semibold mb-4">Services</h4>
               <ul className="space-y-2 text-gray-600">
                 <li><Link to="/service/landscape-design" className="hover:text-gray-900 transition-colors text-sm sm:text-base block py-1">Landscaping Design</Link></li>
-                <li><a href="/service/experience-superviser-and-maali-services" className="hover:text-gray-900 transition-colors text-sm sm:text-base block py-1">Plant Installation</a></li>
+                <li><a href="/service/vertical-gardens" className="hover:text-gray-900 transition-colors text-sm sm:text-base block py-1">Vertical Garden</a></li>
+                <li><Link to="/goverment-horticulture-tender" className="hover:text-gray-900 transition-colors text-sm sm:text-base block py-1">Goverment Private Tender</Link></li>
                 <li><Link to="/service/garden-maintenance" className="hover:text-gray-900 transition-colors text-sm sm:text-base block py-1">Garden Maintenance</Link></li>
-                <li><Link to="/service/international-tree-and-plant-supply" className="hover:text-gray-900 transition-colors text-sm sm:text-base block py-1">International Plant Supply</Link></li>
               </ul>
             </div>
             

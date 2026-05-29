@@ -138,8 +138,8 @@ const SixthComp = () => {
                         >
                             {[
                                 { value: '18+', label: 'Years Experience' },
-                                { value: '5K+', label: 'Plants Delivered' },
-                                { value: '100%', label: 'Quality Assured' },
+                                { value: '480+', label: 'Projects' },
+                                { value: '1500+', label: 'Happy Clients' },
                             ].map((stat) => (
                                 <div key={stat.label} className="flex flex-col">
                                     <span className="text-[#6b8c5a] text-[2vw] font-extrabold leading-none" style={{ fontFamily: "'Georgia', serif" }}>

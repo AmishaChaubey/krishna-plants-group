@@ -6,14 +6,15 @@ const TeamSection = () => {
   const sectionRef = useRef(null);
 
   const teamMembers = [
-       {
-      name: "Gaurav Singh",
-      position: "Site Designer ",
+      {
+      name: "Aakash Singh",
+      position: "HR Head",
       qualifications: "",
-      experience: "18+ years",
+      experience: "15 years",
       hasImage: true,
-      imageUrl: null // Replace with actual image URL
+      imageUrl: "/aakash.jpg" 
     },
+     
     {
       name: "Ms. Chauhan",
       position: "Business Advisor",
@@ -23,13 +24,14 @@ const TeamSection = () => {
       imageUrl: null
     },
  
-    {
-      name: "Aakash Singh",
-      position: "HR Head",
+  
+      {
+      name: "Gaurav Singh",
+      position: "Site Designer ",
       qualifications: "",
-      experience: "12 years",
+      experience: "15+ years",
       hasImage: true,
-      imageUrl: "/aakash.jpg" // Replace with actual image URL
+      imageUrl: null // Replace with actual image URL
     },
     {
       name: "Robin Singh",

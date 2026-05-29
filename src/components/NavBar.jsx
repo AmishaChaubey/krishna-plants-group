@@ -525,7 +525,7 @@ export default function NavBar() {
             </div>
 
             {/* Mobile Pots & Planters */}
-            <div className="border-b border-gray-100">
+            {/* <div className="border-b border-gray-100">
               <button 
                 className="flex items-center justify-between w-full py-3 text-gray-700 hover:text-[#004225] transition-colors"
                 onClick={() => setIsPAPOpen(!isPAPOpen)}
@@ -546,7 +546,7 @@ export default function NavBar() {
                   ))}
                 </div>
               )}
-            </div>
+            </div> */}
 
             <Link
               to="/gallery"

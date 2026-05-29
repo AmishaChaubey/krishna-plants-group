@@ -68,7 +68,7 @@ function About() {
             <p className={`text-[#94A3B8] text-sm text-justify sm:text-base md:text-md leading-relaxed transition-all duration-800 ease-out delay-900 hover:translate-x-2 hover:text-[#64748B] animate-fade-in-left ${
               isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
             }`}>
-              Krishna Plant & Group is a leading name in landscaping design, plant varieties, and horticulture services. With 17 years of expertise, we have successfully delivered over 1280 projects, transforming spaces with sustainable and aesthetically pleasing green solutions.
+              Krishna Plant & Group is a leading name in landscaping design, plant varieties, and horticulture services. With 18 years of expertise, we have successfully delivered over 480 projects,1500 happy clients transforming spaces with sustainable and aesthetically pleasing green solutions.
             </p>
             
             <p className={`text-[#94A3B8] text-sm text-justify sm:text-base md:text-md leading-relaxed transition-all duration-800 ease-out delay-1100 hover:translate-x-2 hover:text-[#64748B] animate-fade-in-left ${
